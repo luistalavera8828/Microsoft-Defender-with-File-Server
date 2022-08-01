@@ -13,4 +13,8 @@ Visualization of the behavior of the Microsoft Defender service when a ransomwar
 
 Finally, it is important to point out that the document is in Spanish and the English version will be published in the future.
 
+Comparison of RTO and RPO in a traditional scenario vs. cloud model.
+
+Ideal for Blue Team
+
 ![image](https://user-images.githubusercontent.com/70595400/182099541-c7df9ecb-2ddb-42ca-9af3-d612dfc5d1fe.png)
